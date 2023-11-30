@@ -20,6 +20,6 @@
 
 ## Как запустить
 
-1. Склонируйте репозиторий: git clone [https://github.com/ваш_локальный_путь](https://github.com/ben0x01/inventory)
+1. Склонируйте репозиторий: git clone https://github.com/ben0x01/inventory
 2. Перейдите в директорию проекта: cd путь_к_папке_проекта
 3. Запустите файл main.py: python main.py
